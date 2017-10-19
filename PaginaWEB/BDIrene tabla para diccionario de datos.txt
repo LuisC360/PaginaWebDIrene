@@ -1,0 +1,25 @@
+BDIrene
+
+EPLEADO
+
+ID_EMPLEADO		int(11)		
+tipo			int(11)		
+usuario			varchar(15)	
+password		varchar(255)	
+nombre			varchar(30)
+apellido		varchar(30)
+direccion		varchar(40)
+telefono		varchar(10)
+Correo			varchar(40)
+
+PRODUCTO
+
+ID_PRODUCTO		int(11)
+nombre			varchar(30)
+descripcion		varchar(50)
+cantidad		int(11)
+precio			float
+tipo			int(11)
+prod_max		int(11)
+prod_min		int(11)
+fechaCaducidad		date

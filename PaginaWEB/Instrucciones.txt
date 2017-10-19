@@ -1,0 +1,5 @@
+Primero importar la base de datos, para hacerlo se debe crear una base de datos llamada BDIrene y enseguida importar el archivo bdirene.sql
+
+Para entrar en la paguina es necesario tener instalado el XAMPP y correrlo, y poner en la barra de direcciones, porner la direccion de la carpeta donde se encuentra la paguina. EJEMPLO: localhost\Pagina WEB
+
+Para registrar un nuevo usuario se debe de entrar al archivo de registro.php y llenar los campos correspondientes. EJEMPLO: localhost\Pagina WEB\registro.php
